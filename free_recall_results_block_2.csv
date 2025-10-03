@@ -1,3 +1,4 @@
+trial,sequence,input,match,score,total
 1,XBTDWEACIPRUHZS,IPRUHZSTBDWEAC,"False,True,True,True,True,True,True,True,True,True,True,True,True,True,True",14,15
 2,DURWNZIOQJVPMES,OQJVMEPSDURIW,"True,True,True,True,False,False,True,True,True,True,True,True,True,True,True",13,15
 3,CYRIDQKZBLWEUGT,BELUGTWZ,"False,False,False,False,False,False,False,True,True,True,True,True,True,True,True",8,15
@@ -38,3 +39,4 @@
 18,IERJZKPUHYQFVXW,XWZQR,"False,False,True,False,True,False,False,False,False,False,True,False,False,True,True",5,15
 19,VJYWDCTFNHLAOBP,NOABP,"False,False,False,False,False,False,False,False,True,False,False,True,True,True,True",5,15
 20,VKZMDRWNPHAUBQT,TEWNPHKZABOQ,"False,True,True,False,False,False,True,True,True,True,True,False,True,True,True",10,15
+
