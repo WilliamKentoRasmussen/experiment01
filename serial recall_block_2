@@ -40,3 +40,23 @@ trial,sequence,input,match,score,total
 18,ZRDCQGNVMTBJSXH,000000NVM000HXD,"False,False,False,False,False,False,True,True,True,False,False,False,False,True,False",4,15
 19,TQDFLPYGJRKZXVH,TQDFLP00000000H,"True,True,True,True,True,True,False,False,False,False,False,False,False,False,True",7,15
 20,SYRFQKMHNVWTZBL,SYRFQKV000000BL,"True,True,True,True,True,True,False,False,False,False,False,False,False,True,True",8,15
+1,HNJKVZCRFYLQMDW,HNZ00000000CMZ ,"True,True,False,False,False,False,False,False,False,False,False,False,True,False,False",3,15
+2,ZYSQFHBRJLPCKTD,ZYS000CMDLKJ   ,"True,True,True,False,False,False,False,False,False,True,False,False,False,False,False",4,15
+3,HKMRNZGQPWFJTCD,KHMHPC000000TDC,"False,False,True,False,False,False,False,False,False,False,False,False,True,False,False",2,15
+4,HYJCFRGWZMLDKSB,HFRCES000000KMD,"True,False,False,True,False,False,False,False,False,False,False,False,True,False,False",3,15
+5,BRNDFYMVCWGLSKH,BRMSYD000000FDS,"True,True,False,False,False,False,False,False,False,False,False,False,False,False,False",2,15
+6,YPHKDCSTZQXRLBJ,KMDFDF000000LBJ,"False,False,False,False,True,False,False,False,False,False,False,False,True,True,True",4,15
+7,RVQNKHDGZPMBYWJ,RDS000000000YWJ,"True,False,False,False,False,False,False,False,False,False,False,False,True,True,True",4,15
+8,RLYDNSMBPGZWJVC,000DNS000GAZJVC,"False,False,False,True,True,True,False,False,False,True,False,False,True,True,True",7,15
+9,KWFGZQCHBVYSMJP,KVSSQN000000MJP,"True,False,False,False,False,False,False,False,False,False,False,False,True,True,True",4,15
+10,FNRVYMQHPXWLDKT,000VYM000000DKT,"False,False,False,True,True,True,False,False,False,False,False,False,True,True,True",6,15
+11,LDZRTWYQKNBCJVG,SFSYOU000NBCJPG,"False,False,False,False,False,False,False,False,False,True,True,True,True,False,True",5,15
+12,RQZFJWGDMKPNXBS,YMZFDSIOUFLSCBS,"False,False,True,True,False,False,False,False,False,False,False,False,False,True,True",4,15
+13,YNRWZSVBTCFKDPG,JPGUOI000CFKCGF,"False,False,False,False,False,False,False,False,False,True,True,True,False,False,False",3,15
+14,QSDPXCWJNFTGYHK,QSF000000000HSK,"True,True,False,False,False,False,False,False,False,False,False,False,False,False,True",3,15
+15,WPGLJDXNHCZKBYQ,WPNIOULKJ000VYQ,"True,True,False,False,False,False,False,False,False,False,False,False,False,True,True",4,15
+16,SYHVFCMLKXRGPND,FJKLSHDAFULHASJ,"False,False,False,False,False,False,False,False,False,False,False,False,False,False,False",0,15
+17,ZBCVQLPFGSHDYXM,ZBCFSDOIUOIUYXM,"True,True,True,False,False,False,False,False,False,False,False,False,True,True,True",6,15
+18,TDSXQNMRZPHWBCK,DTM000000000BCK,"False,False,False,False,False,False,False,False,False,False,False,False,True,True,True",3,15
+19,RDWJKPBVGYNTSHL,DSKJDK000000SHL,"False,False,False,True,False,False,False,False,False,False,False,False,True,True,True",4,15
+20,GVZLNMHFPSCWBKR,VKSFSD000000BKR,"False,False,False,False,False,False,False,False,False,False,False,False,True,True,True",3,15
